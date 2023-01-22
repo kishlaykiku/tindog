@@ -1,2 +1,2 @@
-# tindog
+# Tindog
 Tinder Rip off 
